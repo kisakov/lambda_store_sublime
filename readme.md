@@ -1,4 +1,5 @@
 ## Lambda Store
+![Screenshot](http://xahlee.info/UnixResource_dir/gki/lambda/plt_scheme_lisp_logo_steal-your-face.png)
 
 ![Screenshot](http://cropme.ru/s/f/9/1/86c7fa73.png)
 
